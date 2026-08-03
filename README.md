@@ -1,8 +1,7 @@
 <div align="left">
 
 ## 👤 About me
-* Hi there! I'm Alan R.
-* ---
+* Hi there! I'm Alan R.  
 Professional in the field of Maintenance Mechanics, with 8 years of experience in search of new challenges and in career transition to Data Science. My goal is to find ways to present my ideas and transmit my creativity through data to the Business area.
 
 ---
